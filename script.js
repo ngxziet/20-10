@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 const questionPrompt = document.querySelector(".question-prompt"); // Thêm đoạn này
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Hoy ma cho a xin lui, cho a no qua nhe dao nay a ban qua T.T";
+  question.innerHTML = "Em khong lay thi thui!! T.T";
   gif.src =
     "https://media.giphy.com/media/vvc1dJPLEU2QOw9cXy/giphy.gif";
 
